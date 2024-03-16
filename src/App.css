@@ -1,0 +1,129 @@
+*{
+    background-color: #D3D3D3;
+}
+/* titulo inicial da pagina*/
+.title{
+    color: #00FF7F;
+    font-size: 35px;
+    font-family: Arial;
+    text-align: center;
+   margin-bottom: 600px;
+    
+    
+}
+
+.title .icons a{
+    color: #FFFFFF;
+    display: flexbox;
+    justify-content: space-around;
+    padding-right: 65px;
+}
+
+ 
+
+
+
+/* Formulário  Cadastro*/
+
+form{
+    width: 200px;
+    margin-top: -500px;
+    padding-left: 680px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.inputOne{
+padding-right: 25px;
+}
+
+.inputOne input{
+    width: 300px;
+    height: 30px;
+    border: 1px solid #2F4F4F;
+    border-radius: 10px;
+    background-color: #2F4F4F;
+    margin-top: 5px;
+    padding-top: 8px;
+}
+
+::placeholder{
+    color: #FFFFFF;
+    padding-left: 5px;
+}
+
+.inputDue{
+    padding-right: 150px;
+}
+
+.inputDue input{
+    width: 300px;
+    height: 30px;
+    border: 1px solid #2F4F4F;
+    border-radius: 10px;
+    background-color: #2F4F4F;
+    margin-top: 5px;
+    padding-top: 8px;
+}
+
+/* Button do Formulário*/
+
+#buttonDue{
+    width: 250px;
+    height: 45px;
+    border-radius: 10px;
+    color: #2F4F4F;
+    font-size: 15px;
+    font-family: Arial;
+    background-color: #00FF7F;
+   margin-left: -120px;
+   margin-top: 20px;
+    cursor: pointer;
+}
+/* Login*/
+.click{
+    
+    width: 660px;
+    height: 350px;
+    border: 3px solid #00FF7F;
+    border-radius: 10px;
+    background-color: #00FF7F;
+    margin-top: 200px;
+    margin-left: 380px;
+    padding-left: 300px;
+    
+    
+}
+
+.click h1{
+    color: #2F4F4F;
+    background-color: #00FF7F;
+    font-size: 45px;
+    font-family: Arial;
+    padding-top: 50px;
+   
+}
+
+.click img{
+    width: 100px;
+    margin-left: 150px;
+    padding-left: 20px;
+    border-radius: 70px;
+    
+    
+}
+
+.click a{
+        color: #FFFFFF;
+        background-color: #00FF7F;
+        text-decoration: none;
+        font-family: Arial;
+        font-size: 25px;
+    
+}
+
+
+::placeholder{
+    color: #FFFFFF;
+}
+
